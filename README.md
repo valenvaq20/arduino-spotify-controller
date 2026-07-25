@@ -19,7 +19,6 @@ The Arduino communicates with a program running on the computer, which detects t
 * Arduino Uno or compatible board.
 * 4 push buttons.
 * Breadboard.
-* Dupont jumper wires.
 * USB cable.
 
 ## Disclaimer
@@ -51,7 +50,6 @@ La comunicación entre el Arduino y el ordenador se realiza mediante un programa
 * Arduino Uno o placa compatible.
 * 4 pulsadores (*push buttons*).
 * Breadboard (placa de conexiones).
-* Cables Dupont.
 * Cable USB para conectar el Arduino al ordenador.
 
 ## Aviso
